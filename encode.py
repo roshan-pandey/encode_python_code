@@ -1,4 +1,5 @@
-a = "aaaabbccc#"
+a = "aaaabbccc"
+a+="#"
 encoded_string = ""
 point = -1
 i = 0
